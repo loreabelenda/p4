@@ -1,5 +1,7 @@
-#include "Vehiculo.hpp"
+#include <iostream>
 
+#include "Vehiculo.hpp"
+using namespace std;
 //constructores
 Vehiculo::Vehiculo (){
 	new int nroSerie = 0;
